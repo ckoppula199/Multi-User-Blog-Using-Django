@@ -1,1 +1,1 @@
-# Web-App-Using-Django
+# Multi-User-Blog-Using-Django
